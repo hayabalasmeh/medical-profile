@@ -1,0 +1,75 @@
+body { 
+    background-color: #e4d3cf;
+margin: 0%;
+}
+header {
+   padding-right: 0%;
+   background-color: #e2bcb7;
+}
+header h1 {
+    display: inline-block;
+    color:#b67162;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0%;
+}
+body header img {
+    height: 50;
+    width: 50;
+    
+   padding-right: 0%;
+}
+header nav {
+    float: left;
+}
+header nav ul li{
+    display: inline-block;
+    clear: both;
+}
+header nav ul li button a {
+text-decoration: none;
+color: #b67162;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#design {
+    background-color:#e2bcb7 ;
+   border-style: double;border-color: rgb(54, 54, 204);
+    
+}
+body main {
+    margin-bottom: 35%;
+}
+
+body main th {
+    color: rgb(54, 54, 204);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+body main td {
+    color: #b67162;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+body main img {
+    width: 55%;
+    float: right;
+}
+body main p{
+    margin-top: 20%;
+    color:#b67162 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    clear:left;
+}
+body main h3 {
+    clear:both;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #b67162;
+}
+footer p { 
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #b67162;
+}
+
